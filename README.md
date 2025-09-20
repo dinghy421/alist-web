@@ -72,7 +72,7 @@
 <details> 
 <summary><b>📌注意事项</b></summary>
 <br />
-<p>1.WebDav服务器地址：https://share.antwen.com 如需挂载服务，请联系我的<a href="mailto:dinghyv@gmail.com">个人邮箱</a>。<br>
+<p>1.WebDav服务器地址：https://s.antwen.com 如需挂载服务，请联系我的<a href="mailto:dinghyv@gmail.com">个人邮箱</a>。<br>
     <br />
 2.以在线浏览为主，禁止高强度下载。<br><br />
 3.如果网页播放体验不佳（可能是因为Alist的视频播放器太卡了），可以配合Potplayer（<a href="https://potplayer.tv/?lang=zh_CN">Windows</a>）或VLC播放器（<a href="https://mirrors.aliyun.com/videolan/vlc-android/3.5.4/VLC-Android-3.5.4-arm64-v8a.apk">安卓</a> |<a href="https://apps.apple.com/cn/app/vlc-media-player/id650377962">iOS</a>）使用资源。<br><br />
